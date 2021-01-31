@@ -1,4 +1,5 @@
 class Pessoa:
+<<<<<<< HEAD
     def comprimentar(self):
         return f'Olá {id(self)}'
 if __name__ == '__main__':
@@ -6,3 +7,6 @@ if __name__ == '__main__':
     print(Pessoa.comprimentar(p))
     print(id(p))
     print(p.comprimentar())
+=======
+    pass
+>>>>>>> origin/simples
