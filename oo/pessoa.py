@@ -1,5 +1,4 @@
 class Pessoa:
-<<<<<<< HEAD
     def comprimentar(self):
         return f'Olá {id(self)}'
 if __name__ == '__main__':
