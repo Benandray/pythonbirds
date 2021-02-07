@@ -17,8 +17,6 @@ class Pessoa:
     def nome_e_atributos_de_classe(cls):
         return f'{cls} - olhos {cls.olhos}'
 
-
-
 if __name__ == '__main__':
     renzo = Pessoa(nome='Renzo')
     luciano = Pessoa(renzo, nome='Luciano')
